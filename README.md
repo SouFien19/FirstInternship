@@ -33,7 +33,7 @@ docker pull soufienlabiadh/angularfastapi
 https://hub.docker.com/r/soufienlabiadh/angularfastapi
 
 
-## For Run the DockerFile 
+## To Run the DockerFile 
 
 
 
