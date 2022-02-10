@@ -31,3 +31,10 @@ docker pull soufienlabiadh/angularfastapi
 
 
 https://hub.docker.com/r/soufienlabiadh/angularfastapi
+
+
+## For Run the DockerFile 
+
+
+
+docker run -d --name mycontainer -p 80:80 angularfastapi
